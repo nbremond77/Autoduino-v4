@@ -63,7 +63,7 @@ L'écran LCD couleur tactile de 2.8" (attention, certains modèle ne sont pas é
 
 Le module BlueTooth HC05 (les broches devront peut-être être déssoudées et remplacées par des barettes droites soudées sur la face inférieure) : https://fr.aliexpress.com/item/HC05-HC-05-master-slave-6pin-JY-MCU-anti-reverse-integrated-Bluetooth-serial-pass-through-module/32788718239.html?spm=2114.06010108.3.58.m5KIcO&ws_ab_test=searchweb0_0,searchweb201602_2_10152_10065_10151_10068_10305_10304_10306_10136_10137_10060_10302_10155_10062_437_10154_10056_5210020_10055_10054_10059_303_5290020_100031_10099_10103_10102_10096_10052_10053_10050_10107_10142_10051_5280011_10084_10083_10080_10082_10081_5260020_5270020_10177_5320020_10110_519_10111_10112_10113_10114_10182_10184_10078_10079_5240020_5230020_10073_10123_5250020_10189_142-10050,searchweb201603_49,ppcSwitch_5&btsid=7052be95-a9a1-4971-bb41-739faffda7ad&algo_expid=dd608b64-cccf-44a9-9c7e-1e9cdb78854b-7&algo_pvid=dd608b64-cccf-44a9-9c7e-1e9cdb78854b
 
-Les autres copmposants sont des modèles standards.
+Les autres composants sont des modèles standards.
 
 # Circuit imprimé et fabrication
 
