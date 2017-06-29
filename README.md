@@ -44,7 +44,13 @@ Pour supporter le grand nombre d'entrées/sorties, il a été nécessaire d'util
 L'Arduino DUE fonctionne en 3.3V, et n'est pas compatible avec des périphériques fonctionnant en 5V. Assurez vous que les périphériques utilisés fonctionnent bien en 3.3V. Les deux interface moteur prévues sur la carte Autoduino sont quant-à-elles alimentées en 5V.
 
 
-# Fabrication
+# Schéma électronique
+
+La conception du circuit imprimé a été réalisée avec kiCad, l'excellent logiciel de conception électronique, libre et multiplateforme. Le schéma est disponible ici:
+https://github.com/nbremond77/Autoduino-v4/raw/master/Hardware/rev%204/Output/Autoduino-rev4.pdf
+
+
+# Circuit imprimé et fabrication
 
 Autoduino utilise des composants CMS et des composants traversants. Le cuircuit imprimé fait 100x100mm et est du type double-face à trous métalisés. Nous l'avons fait fariqué chez PCBWay.com à un prix trés compétitif. Tous les fichiers nécessaires à sa fabrication sont dans le répertoire Output/Manufacturing (voir le fichier .Zip dans ce répertoire). Pensez également à commander un "Stencyl" pour la face "Bottom". Le Stencyl est un feuille de métal performée au laser au niveau des pastilles de soudure, et qui permet de grandement faciliter l'application de la pate à braser utilisée pour souder les  composants CMS.
 
