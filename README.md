@@ -1,10 +1,10 @@
 # Autoduino
 
-Arduino UNO shield to interface the I/O modules of A4 Technology // Autoduino est un bouclier pour Arduino Uno qui permet de piloter les maquettes A4 Technology utilisées pour l'enseignement de la technologie.
+Arduino DUE shield to interface the I/O modules of A4 Technology // Autoduino est un bouclier pour Arduino DUE qui permet de piloter les maquettes A4 Technology utilisées pour l'enseignement de la technologie. Il permet également d'interefacer des module Grove.
 
-![alt textAutoduino Shield](https://github.com/nbremond77/Autoduino/blob/master/photos/IMG_6448.resized.JPG)
+![alt textAutoduino Shield](https://github.com/nbremond77/Autoduino-v4/blob/master/Hardware/rev%204/Output/Images/Autoduino-rev4%20-%20C.png)
 
-Exemples de maquettes:
+Exemples de maquettes A4:
 
 
 http://www.a4.fr/maquette-motorisee-programmable-portail-1-battant-version-kit.html
@@ -17,7 +17,7 @@ http://www.a4.fr/autoalarme-maquette-experimentale-d-un-systeme-d-alarme-kit.htm
 
 
 
-Vous trouverez sur ce site, les fichiers relatif à la carte électronique, et les développements logiciels associés.
+Vous trouverez sur ce site, les fichiers relatif à la carte électronique, et les développements logiciels associés, dès qu'ils seront disponibles. Cette carte peut être programmée en utilisant l'environnement Arduino. Mais elle peut également en programmée avec Blockly@rDuino, l'excellent projet de Sébastien Canet.
 
 # Introduction
 Le bouclier Autoduino permet de piloter les maquettes A4 technology grâce à un Arduino UNO. Pour cela, le bouclier est équipé de 
