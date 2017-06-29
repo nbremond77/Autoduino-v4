@@ -1,6 +1,6 @@
 # Autoduino
 
-Arduino DUE shield to interface the I/O modules of A4 Technology // Autoduino est un bouclier pour Arduino DUE qui permet de piloter les maquettes A4 Technology utilisées pour l'enseignement de la technologie. Il permet également d'interefacer des module Grove.
+Arduino DUE shield to interface the I/O modules of A4 Technology // Autoduino est un bouclier pour Arduino DUE qui permet de piloter les maquettes A4 Technology utilisées pour l'enseignement de la technologie. Il permet également d'interfacer des module Grove.
 
 ![alt textAutoduino Shield](https://github.com/nbremond77/Autoduino-v4/blob/master/Hardware/rev%204/Output/Images/Autoduino-rev4%20-%20C.png)
 
@@ -34,7 +34,7 @@ Le bouclier Autoduino permet de piloter les maquettes A4 technology grâce à un
 - quelques connecteurs supplémentaires permettant de connecter des capteurs/actionneurs plus évolués (I2C, SPI, CAN, Serial...),
 - 1 connecteur pour un module BlueTooth,
 - 1 convertisseur Step/Up permettant d'alimenter la carte et l'Arduino avec deux piles de 1.5V, ou avec un accumulateur 3.7V,
-- 1 connecteur pour un écran graphique couleur tactile de 2.8".
+- 1 connecteur pour un écran graphique couleur tactile de 2.8" connecté en SPI référencé TJCTM24028-SPI disponible pour un prix raisonnable sur Aliexpress.com.
 
 
 Pour supporter le grand nombre d'entrées/sorties, il a été nécessaire d'utiliser un Arduino plus complet que le UNO. Nous avons choisi le Arduino DUE qui est équipé d'un processeur 32 bits permettant d'héberger des programmes trés complexes.
@@ -49,6 +49,21 @@ L'Arduino DUE fonctionne en 3.3V, et n'est pas compatible avec des périphériqu
 La conception du circuit imprimé a été réalisée avec kiCad, l'excellent logiciel de conception électronique, libre et multiplateforme. Le schéma est disponible ici:
 https://github.com/nbremond77/Autoduino-v4/raw/master/Hardware/rev%204/Output/Autoduino-rev4.pdf
 
+# Approvisionnement des composants
+
+Les composants ont été achetés sur Aliepxress, et le PCb a été commandé chez PCBWay.com.
+
+Voici des liens vers les principales références:
+
+La carte Arduino DUE: 
+
+Les connecteurs Jack 2.5mm CMS :
+
+L'écran LCD couleur tactile de 2.8" : 
+
+Le module BlueTooth HC05 : 
+
+Les autres copmposants sont des modèles standards.
 
 # Circuit imprimé et fabrication
 
