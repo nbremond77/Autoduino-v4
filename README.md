@@ -78,7 +78,7 @@ Pour l'assemblage, de nombreux composants sont "montés en surface (CMS) sur la 
 Le montage des composants traversants, et des 2 LED sur la face "Top" se fait manuellement, aprés la refusion et le refroidissement de la carte. Cette méthode permet de réaliser plusieurs exemplaires de la carte en un temps raisonnable.
 
 # Programmation
-La programmation de l'Arduino peut se faire grâce à blockly@rDuino: http://technologiescollege.github.io/ qui inclus maintenant la bibliothèque adéquate.
+La programmation de l'Arduino peut se faire grâce à blockly@rDuino: http://technologiescollege.github.io/ en utilisant les blocs Grove par exemple.
 
 http://technologiescollege.github.io/Blockly-at-rduino/
 
