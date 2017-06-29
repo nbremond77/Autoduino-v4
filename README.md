@@ -2,7 +2,12 @@
 
 Arduino DUE shield to interface the I/O modules of A4 Technology // Autoduino est un bouclier pour Arduino DUE qui permet de piloter les maquettes A4 Technology utilisées pour l'enseignement de la technologie. Il permet également d'interfacer des module Grove.
 
+La face "Bottom":
 ![alt textAutoduino Shield](https://github.com/nbremond77/Autoduino-v4/blob/master/Hardware/rev%204/Output/Images/Autoduino-rev4%20-%20C.png)
+
+La face "Top"
+![alt textAutoduino Shield](https://github.com/nbremond77/Autoduino-v4/blob/master/Hardware/rev%204/Output/Images/Autoduino-rev4%20-%20D.png)
+
 
 Exemples de maquettes A4:
 
